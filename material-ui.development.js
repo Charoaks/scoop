@@ -34,8 +34,8 @@
   var ReactDOM__namespace = /*#__PURE__*/_interopNamespaceDefault(ReactDOM);
 
   var common = {
-    black: '#000',
-    white: '#fff'
+    black: 'var(--bs-body-bg)',
+    white: 'var(--bs-body-bg)'
   };
   var common$1 = common;
 
